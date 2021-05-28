@@ -1,0 +1,2 @@
+rootProject.name = "hands-b2b"
+include ':app'
